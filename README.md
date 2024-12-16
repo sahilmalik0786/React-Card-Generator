@@ -21,8 +21,8 @@ In this project, I used React to create cards with customizable content, includi
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **HTML/CSS**: For structure and styling of the application.
-- **JavaScript**: Used for logic and interactivity within React components.
+- **Tailwind_Css**: For styling of the application.
+
 
 ## Installation
 
@@ -30,7 +30,7 @@ To run this project locally on your machine, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/react-card-generator.git
+   git clone https://github.com/sahilmalik0786/react-card-generator.git
 
 2. Navigate into the project directory:
    ```bash
